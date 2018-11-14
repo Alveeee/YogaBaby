@@ -3,11 +3,11 @@
     width: 70%;
     height: auto;
     margin: 30px;
-<<<<<<< HEAD
     margin-bottom: -25px;
     border-radius: 10px;
     
 }
+
 .module
 {
     font-family: "serenity", sans-serif;
@@ -19,22 +19,11 @@
     border-color: lightgray;
     border-width: thin;
     border-radius: 10px;
-    margin-top: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-bottom: 40px;
-=======
-    margin-bottom: 10px;
+    margin: 20px 30px 30px 40px;
 }
 
-.module
-{
->>>>>>> 68a2d4ff3849d8c154982d47721e0fe751f12661
-    
-}
 .modButton
 {
-<<<<<<< HEAD
     font-family: "serenity", sans-serif;
     font-size: 20px;
     display: block;
@@ -45,10 +34,8 @@
     background-color: antiquewhite;
     border-radius: 10px;
     padding: 4px 8px 4px 8px;
-
-
-
 }
+
 .modButton: after 
 {
     content: "";
@@ -59,7 +46,4 @@
 .modButton:hover 
 {
     color:#E27866
-=======
-    
->>>>>>> 68a2d4ff3849d8c154982d47721e0fe751f12661
 }
