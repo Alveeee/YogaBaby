@@ -14,12 +14,19 @@
     cursor:pointer;
     color: #4B3A30;
     
+    border-radius: 10px;
+    border-width: 0px 2px 2px 0px;
+    border-color: #4B3A30;
+    padding: 8px;
+    
+    
 
 }
 
 .helpfulButton:hover 
 {
-    color:#E27866
+    color:#E27866;
+    border-width: 0px;
 }
 
 .description

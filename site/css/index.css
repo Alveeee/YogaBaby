@@ -14,7 +14,7 @@
     font-size: 15px;
     padding: 30px 50px 50px 50px;
     text-align: center;
-    display: block;
+    align-content: center;
     border: solid; 
     border-color: lightgray;
     border-width: thin;
@@ -25,15 +25,22 @@
 .modButton
 {
     font-family: "serenity", sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    color: #4B3A30;
+    
     display: block;
     text-transform: uppercase;
     cursor:pointer;
-    color: #4B3A30;
+    
+    width: 100%;
     margin: auto;
+    margin-bottom: 20px;
+    
     background-color: antiquewhite;
     border-radius: 10px;
-    padding: 4px 8px 4px 8px;
+    border-width: 0px 2px 2px 0px;
+    border-color: #4B3A30;
+    padding: 8px;
 }
 
 .modButton: after 
@@ -45,5 +52,6 @@
 
 .modButton:hover 
 {
-    color:#E27866
+    color:#E27866;
+    border-width: 0px;
 }
