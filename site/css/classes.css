@@ -1,0 +1,14 @@
+.classContainer
+{
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    height: 200px;
+}
+
+.classImg
+{
+    width: 90%;
+    height: auto;
+    margin: 10px;
+}
