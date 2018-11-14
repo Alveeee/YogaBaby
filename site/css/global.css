@@ -1,6 +1,8 @@
 #content
 {
     text-align: center;
+    
+    
 }
 
 #header
@@ -15,16 +17,18 @@
 #logo
 {
     max-width: 20%;
-
+    cursor: pointer;
 }
 
 #menu
 {
     list-style-type: none; 
     display: inline;
-    background-color:blueviolet;
-    padding-bottom: 10px;
-    width: 500px;
+    background-color:none;
+    padding: 10px, 10px, 10px, 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
     
     
 }
@@ -103,6 +107,7 @@ li
 {
     width: 50px;
     margin-top: 30px;
+    cursor:pointer;
 }
 
 .footerList
@@ -115,13 +120,23 @@ li
 .button1
 {
     font-family: "serenity", sans-serif;
-    font-size: 15px;
+    font-size: 20px;
 <<<<<<< HEAD
-    font-weight: 200;
-    margin-left: 25px;
+    margin-left: 50px;
     margin-right: 25px;
     display: contents;
-    
+    text-transform: uppercase;
+    cursor:pointer;
+    color: #4B3A30;
+
+}
+
+.button1: after {
+    content: "";
+    clear: both;
+    display: contents;
+}
+.button1:hover {color:#E27866}
     
     
     
