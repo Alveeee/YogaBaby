@@ -1,0 +1,27 @@
+.linkGroup
+{
+    
+}
+
+.helpfulButton
+{
+    font-family: "serenity", sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 25px;
+    display: contents;
+    text-transform: uppercase;
+    cursor:pointer;
+    color: #4B3A30;
+
+}
+
+.helpfulButton:hover 
+{
+    color:#E27866
+}
+
+.description
+{
+    
+}
