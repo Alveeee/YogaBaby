@@ -3,5 +3,51 @@
     width: 70%;
     height: auto;
     margin: 30px;
-    margin-bottom: 10px;
+    margin-bottom: -25px;
+    border-radius: 10px;
+    
+}
+.module
+{
+    font-family: "serenity", sans-serif;
+    font-size: 15px;
+    padding: 30px 50px 50px 50px;
+    text-align: center;
+    display: block;
+    border: solid; 
+    border-color: lightgray;
+    border-width: thin;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    
+}
+.modButton
+{
+    font-family: "serenity", sans-serif;
+    font-size: 20px;
+    display: block;
+    text-transform: uppercase;
+    cursor:pointer;
+    color: #4B3A30;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 4px 8px 4px 8px;
+
+
+
+}
+.modButton: after 
+{
+    content: "";
+    clear: both;
+    display: contents;
+}
+
+.modButton:hover 
+{
+    color:#E27866
 }

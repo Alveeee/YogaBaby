@@ -13,6 +13,7 @@
     text-transform: uppercase;
     cursor:pointer;
     color: #4B3A30;
+    
 
 }
 
@@ -23,5 +24,11 @@
 
 .description
 {
-    
+    text-align: center;
+    padding: 0px 100px 0px 100px;
+    display: table;
+    border: solid;
+    border: thin;
+    border-color: lightgray;
+    border-radius: 10px;
 }
