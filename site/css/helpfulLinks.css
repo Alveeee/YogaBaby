@@ -1,18 +1,24 @@
 .linkGroup
 {
+    font-family:"omnes-pro", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #4B3A30;
+    padding: 10px 10px 10px 10px;
     
 }
+
 
 .helpfulButton
 {
     font-family: "serenity", sans-serif;
     font-size: 20px;
-    margin-left: 50px;
-    margin-right: 25px;
-    display: contents;
     text-transform: uppercase;
+    display: block;
     cursor:pointer;
     color: #4B3A30;
+<<<<<<< HEAD
     
     border-radius: 10px;
     border-width: 0px 2px 2px 0px;
@@ -20,6 +26,12 @@
     padding: 8px;
     
     
+=======
+    background-color: antiquewhite;
+    margin: auto;
+    border-radius: 10px;
+    padding: 4px 8px 4px 8px;
+>>>>>>> 9735027fff91a4ddbcaf2c8958dda283927984ee
 
 }
 
@@ -32,10 +44,11 @@
 .description
 {
     text-align: center;
-    padding: 0px 100px 0px 100px;
-    display: table;
-    border: solid;
-    border: thin;
+    padding: 10px 50px 10px 50px;
+    border: solid; 
     border-color: lightgray;
+    border-width: thin;
     border-radius: 10px;
+    margin: 5px 75px 20px 75px;
+    text-transform: none;
 }
