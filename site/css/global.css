@@ -39,6 +39,7 @@
     text-align: center;
     padding: 5px;
     background-color: #4B3A30;
+    font-size: 18px;
 }
 
 .container1
@@ -64,7 +65,6 @@
 .container3
 {
     margin: 10px;
-    height: 115px;
     padding: 5px;
 }
 
