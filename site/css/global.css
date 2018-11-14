@@ -4,18 +4,24 @@
 }
 
 #header
-{
+{   font-size: 25px;
+    font-family: serenity, sans-serif;
+    font-weight: 500;
+    letter-spacing: 15px;
+    
     
 }
 
 #logo
 {
-    
+    max-width: 20%;
+
 }
 
 #menu
 {
    list-style-type: none; 
+    
 }
 
 #footerList
@@ -85,6 +91,11 @@
 
 .button1
 {
+    font-family: serenity, sans-serif;
+    font-size: 15px;
+    display: inline;
+
+    
     
 }
 
