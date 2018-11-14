@@ -18,9 +18,10 @@
    list-style-type: none; 
 }
 
-#footerList
+#footer
 {
-    
+    vertical-align: middle;
+    background-color:aqua;
 }
 
 .container1
@@ -35,7 +36,10 @@
 
 .container3
 {
-    
+    margin: 10px;
+    padding: 10px;
+    vertical-align: middle;
+    background-color:cadetblue;
 }
 
 ._100
@@ -73,14 +77,20 @@
     clear:both;
 }
 
-.socialIcon
+li
 {
     
 }
 
+.socialIcon
+{
+    width: 50px;
+    color: black;
+}
+
 .footerList
 {
-    
+    list-style-type: none;
 }
 
 .button1
@@ -90,6 +100,13 @@
 
 .link1
 {
+    text-decoration: underline;
     
 }
+
+.link1:hover
+{
+    text-decoration: none;
+}
+
 
