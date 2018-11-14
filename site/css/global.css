@@ -121,7 +121,6 @@ li
 {
     font-family: "serenity", sans-serif;
     font-size: 20px;
-<<<<<<< HEAD
     margin-left: 50px;
     margin-right: 25px;
     display: contents;
@@ -131,20 +130,18 @@ li
 
 }
 
-.button1: after {
+.button1: after 
+{
     content: "";
     clear: both;
     display: contents;
 }
-.button1:hover {color:#E27866}
-    
-    
-    
-=======
-    display: inline;
->>>>>>> 4e425b05967faad049cc1c30ed86495aeccb08a8
-}
 
+.button1:hover 
+{
+    color:#E27866
+}
+    
 .link1
 {
     font-family: serenity, sans-serif;
@@ -156,6 +153,10 @@ li
 .link1:hover
 {
     text-decoration: none;
+}
+
+p, h1, h2 {
+    font-family: serenity, sans-serif;
 }
 
 
