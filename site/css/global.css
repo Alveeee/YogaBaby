@@ -173,8 +173,7 @@ p, h1, h2, h3, h4, h5 {
 }
 
 p {
-    font-family: serenity, sans-serif;
-    font-style:italic;
+    font-family: "serenity", sans-serif;
     letter-spacing: 1px;
     font-size: 20px;
 }

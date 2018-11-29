@@ -12,14 +12,11 @@
 {
     font-family: "serenity", sans-serif;
     font-size: 15px;
-    padding: 30px 50px 50px 50px;
+    padding: 20px;
     text-align: center;
     align-content: center;
-    border: solid; 
-    border-color: lightgray;
-    border-width: thin;
     border-radius: 10px;
-    margin: 20px 30px 30px 40px;
+    margin: 20px 20px 40px 20px;
 }
 
 .modButton
@@ -32,7 +29,7 @@
     text-transform: uppercase;
     cursor:pointer;
     
-    width: 100%;
+    width: 100;
     margin: auto;
     margin-bottom: 20px;
     

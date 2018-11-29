@@ -2,16 +2,15 @@
 {
     text-align: left;
     vertical-align: middle;
-    padding: 5px;
-    margin: 20px;
+    padding: 25px;
+    margin: 40px;
     background-color: antiquewhite;
-    border-radius: 10px
+    border-radius: 25px
 }
 
 .classImg
 {
     width: 90%;
-    margin: 10px;
-    margin-top: 15px;
+    margin-left: 20px;
     border-radius: 20px;
 }
